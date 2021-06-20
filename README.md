@@ -1,8 +1,8 @@
 # ML-code-test
 
 ## Instructions
-
+- Run first cell to import required librarys
 - Task 1:
-  - ok
+  
 - Task 2:
   - ok
