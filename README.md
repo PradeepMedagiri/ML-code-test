@@ -12,3 +12,6 @@
   - Program creates file named "sample_2.json", as final output.
 - Task 3:
   - Documented in detail and converted to pdf document.
+
+
+Note: This README file is created on my own github account and submitted (after downloading it)
